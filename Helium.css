@@ -1,0 +1,20 @@
+.round_box{
+	font-size: 48px;
+	color:#45FD00;
+	background-color: #F17AB0	;
+	background-image: linear-gradient(to top, #711B42,#DF83AD,#8380EE,#FE0878);
+	width: 200px;
+	text-align: center;
+	padding: 50px 50px;
+	font-weight: bolder;
+	border-top-left-radius: 65px;
+	border-bottom-right-radius: 55px;
+}
+#parent p:nth-child(even){
+	background-color: #87D3FC;
+	color:#080EB9;
+}
+#parent p:nth-child(odd){
+	background-color: #0D85F7;
+	color:black;
+}

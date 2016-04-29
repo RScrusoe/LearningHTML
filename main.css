@@ -1,4 +1,4 @@
-h1{
+.index{
 	color:rgb(243,28,6);
 	background-color:#14FEFE ;
 	font-weight: bolder;
@@ -14,7 +14,7 @@ h6{
 	color: purple;
 }
 li{
-	color: orange;
+	color: #FF0064;
 	font-size: 20px
 }
 div{
@@ -28,7 +28,7 @@ span{
 	text-decoration: underline ;
 }
 #blue{
-	color: #f12a5d
+	color: #002f5d
 
 }
 .red{
@@ -38,3 +38,39 @@ h5{
 	color:#B00D8B;
 	text-decoration:underline;
 }
+
+.line:first-letter{
+	font-size: 35px;
+	color:blue;
+}
+li:first-letter{
+	font-weight:bold;
+	font-size: 25px
+
+}
+a{
+	font-weight: bold;
+	color:green;
+	text-decoration: none;
+}
+a:hover{
+	color:red;
+	text-decoration: underline;
+}
+a:active{
+	color:black;
+}
+
+a:visited{
+	color:grey;
+	text-decoration: none
+}
+
+
+
+
+
+
+
+
+
