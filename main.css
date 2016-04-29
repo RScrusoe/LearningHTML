@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .index{
+=======
+h1{
+>>>>>>> refs/remotes/HTML/master
 	color:rgb(243,28,6);
 	background-color:#14FEFE ;
 	font-weight: bolder;
@@ -14,7 +18,11 @@ h6{
 	color: purple;
 }
 li{
+<<<<<<< HEAD
 	color: #FF0064;
+=======
+	color: #0090E7;
+>>>>>>> refs/remotes/HTML/master
 	font-size: 20px
 }
 div{
@@ -28,7 +36,11 @@ span{
 	text-decoration: underline ;
 }
 #blue{
+<<<<<<< HEAD
 	color: #002f5d
+=======
+	color: #f12a5d
+>>>>>>> refs/remotes/HTML/master
 
 }
 .red{
@@ -39,6 +51,7 @@ h5{
 	text-decoration:underline;
 }
 
+<<<<<<< HEAD
 .line:first-letter{
 	font-size: 35px;
 	color:blue;
@@ -50,6 +63,9 @@ li:first-letter{
 }
 a{
 	font-weight: bold;
+=======
+a{
+>>>>>>> refs/remotes/HTML/master
 	color:green;
 	text-decoration: none;
 }
@@ -58,6 +74,7 @@ a:hover{
 	text-decoration: underline;
 }
 a:active{
+<<<<<<< HEAD
 	color:black;
 }
 
@@ -74,3 +91,17 @@ a:visited{
 
 
 
+=======
+	color:yellow;
+}
+a:visited{
+	color:black;
+	text-decoration: none;
+}
+
+
+li:first-letter{
+	font-weight: bold;
+	font-size: 28px;
+}
+>>>>>>> refs/remotes/HTML/master
